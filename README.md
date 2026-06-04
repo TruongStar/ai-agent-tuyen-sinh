@@ -1,6 +1,5 @@
 # AI Agent Tư Vấn Tuyển Sinh Đại Học
 
-Đây là project AI Agent hoàn chỉnh dạng đồ án/triển khai nội bộ, không phải chatbot RAG demo.
 
 ## Thành phần chính
 
@@ -24,7 +23,7 @@
 - Logging
 - Error Handling
 - Streamlit UI nhiều tab
-- Cấu trúc module rõ ràng để viết báo cáo
+
 
 ## Cài đặt
 
@@ -98,7 +97,7 @@ Observation
 Final Answer
 ```
 
-## Vì sao đây là AI Agent?
+## AI Agent?
 
 Vì hệ thống không chỉ hỏi đáp đơn thuần. Nó có:
 - LLM reasoning
@@ -110,7 +109,4 @@ Vì hệ thống không chỉ hỏi đáp đơn thuần. Nó có:
 - workflow Agent
 - logging quan sát được
 
-Tên ghi trong báo cáo:
-
-> Hệ thống AI Agent hỗ trợ tư vấn tuyển sinh đại học sử dụng LangGraph, ReAct Workflow, Tool Calling và RAG.
 
